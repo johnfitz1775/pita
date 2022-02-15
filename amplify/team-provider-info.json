@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-booberbootyboys-dev-152604-authRole",
+      "UnauthRoleArn": "arn:aws:iam::795743891985:role/amplify-booberbootyboys-dev-152604-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::795743891985:role/amplify-booberbootyboys-dev-152604-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-booberbootyboys-dev-152604-deployment",
+      "UnauthRoleName": "amplify-booberbootyboys-dev-152604-unauthRole",
+      "StackName": "amplify-booberbootyboys-dev-152604",
+      "StackId": "arn:aws:cloudformation:us-east-1:795743891985:stack/amplify-booberbootyboys-dev-152604/810e2400-8e9d-11ec-b252-0a00e2fb722d",
+      "AmplifyAppId": "d1zmrn327iur1c"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1zmrn327iur1c",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
